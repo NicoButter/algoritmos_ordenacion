@@ -20,3 +20,6 @@ Puedes instalar los paquetes necesarios usando `pip`:
 
 ```bash
 pip install matplotlib
+```
+
+### Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en abrir un issue en el repositorio o contactarnos a través de nicobutter@gmail.com.
